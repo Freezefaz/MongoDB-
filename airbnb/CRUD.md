@@ -23,7 +23,7 @@ Rememebr to replace the `<password>` in the connection string with your actual p
 
 # Use environmental variables to hide the MONGO_URI
 
-1. Install `python-dotenv` dependency
+1. Install `pip3 install python-dotenv` dependency
 
 2. Create `.env` file in the same folder as `app.py`
 
